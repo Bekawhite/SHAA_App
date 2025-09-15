@@ -1,0 +1,14 @@
+pandas
+numpy
+jsonschema
+datetime
+geopy
+folium
+geocoder
+matplotlib
+seaborn
+faker
+streamlit
+flask
+werkzeug
+python-dotenv
